@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=inImage
+comment0.target=edu.duke.ImageResource\ greyImage(edu.duke.ImageResource)
+comment1.params=image
+comment1.target=void\ newName(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ file()
+numComments=3
